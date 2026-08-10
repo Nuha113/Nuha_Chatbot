@@ -12,7 +12,7 @@ CORS(app)
 # 1. تجهيز الإعدادات (تصير مرة وحدة عند تشغيل السيرفر)
 # ============================================
 HF_TOKEN = os.environ.get("HF_TOKEN")
-MODEL_NAME = "Qwen/Qwen2.5-3B-Instruct"
+MODEL_NAME = "Qwen/Qwen2.5-7B-Instruct"
 EMBED_MODEL = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
  
 client = InferenceClient(token=HF_TOKEN)

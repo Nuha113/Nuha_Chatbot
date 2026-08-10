@@ -1,6 +1,7 @@
-gradio
-spaces
-sentence-transformers
+uirements light · TXT
+flask
+flask-cors
 huggingface_hub
 scikit-learn
 numpy
+ 

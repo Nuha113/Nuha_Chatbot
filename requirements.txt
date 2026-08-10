@@ -1,0 +1,6 @@
+gradio
+spaces
+sentence-transformers
+huggingface_hub
+scikit-learn
+numpy
